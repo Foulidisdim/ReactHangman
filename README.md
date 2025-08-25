@@ -1,4 +1,10 @@
-# Getting Started
+A fun, interactive word-guessing game built with React.
+
+## Live Demo 🚀
+Play it now: [Launch the game!](https://your-vercel-app-url.vercel.app)
+
+
+# Getting Started locally
 Install the dependencies and run the project
 ```
 npm install
