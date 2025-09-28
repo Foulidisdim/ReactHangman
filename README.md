@@ -22,6 +22,8 @@ This project was built primarily with:
 * **`clsx`** (For conditional class name management)
 * **`react-confetti`** (For the victory celebration)
 
+<img width="509" height="713" alt="React Hangman" src="https://github.com/user-attachments/assets/c3bad4c6-719e-4797-9e20-aac33502319e" />
+
 ## 💡 Project Goal
 
 This application serves as an excellent demonstration of:
